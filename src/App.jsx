@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:3001";
+const API_URL = "https://wonderai-studio.onrender.com";
 
 const EMPTY_CHARACTER = {
   name: "",
